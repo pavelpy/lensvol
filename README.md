@@ -7,7 +7,7 @@
 
 🤓 Projects of note:
 - [intellij-blackconnect](https://github.com/lensvol/intellij-blackconnect/) - reformat Python code in IDEA using [**blackd**](https://black.readthedocs.io/en/stable/blackd.html) ☕ 🐍
-- [pybetter](https://github.com/lensvol/intellij-blackconnect/) - automatically fix trivial problems with your Python code!
+- [pybetter](https://github.com/lensvol/pybetter/) - automatically fix trivial problems with your Python code!
 - [astboom](https://github.com/lensvol/astboom) / [tokelor](https://github.com/lensvol/tokelor) - set of tools to explore Python language structure from CLI.
 
 <!--
